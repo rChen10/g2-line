@@ -45,7 +45,7 @@ class screen{
 		int h, w;
 
 		screen(){
-			grid = nullptr;
+			grid = 0;
 		}
 
 		screen(int x, int y){
